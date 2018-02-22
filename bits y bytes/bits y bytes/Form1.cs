@@ -70,7 +70,7 @@ namespace bits_y_bytes
         }
         private int desplazoEstado(int num)
         {
-            int state = desplazo(num)  >> 3 & 3;//3 requiere de 2 bits se recorre 3 posiciones para quitar los de direcc
+            int state = desplazo(num)  >> 5 & 3;//3 requiere de 2 bits se recorre 5 posiciones para quitar los de direcc y nivel de agua
             switch (state)
             {
                 case 0:
@@ -91,7 +91,7 @@ namespace bits_y_bytes
 
         private int desplazoNivel(int num)
         {
-            int nivel = desplazo(num) >> 5 & 3;// al número desplazdo se le desplazan 5 para obtener los bits de nivel y se requieren 2 bits por lo tanto el and de 3 
+            int nivel = desplazo(num) >> 3 & 3;// al número desplazdo se le desplazan 3 para obtener los bits de nivel y se requieren 2 bits por lo tanto el and de 3 
 
            picNivel.Image = imgListNivel.Images[nivel];// implementar este
 
