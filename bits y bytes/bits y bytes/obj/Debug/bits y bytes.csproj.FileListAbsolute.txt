@@ -1,0 +1,9 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\bin\Debug\bits y bytes.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\bin\Debug\bits y bytes.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\bin\Debug\bits y bytes.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits y bytes.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits_y_bytes.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits_y_bytes.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits y bytes.csproj.GenerateResource.Cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits y bytes.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\bits y bytes\bits y bytes\obj\Debug\bits y bytes.pdb
