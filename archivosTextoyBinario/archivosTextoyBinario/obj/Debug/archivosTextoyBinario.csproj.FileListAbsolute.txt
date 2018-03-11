@@ -1,0 +1,9 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\bin\Debug\archivosTextoyBinario.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\bin\Debug\archivosTextoyBinario.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\bin\Debug\archivosTextoyBinario.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.csproj.GenerateResource.Cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\archivosTextoyBinario\archivosTextoyBinario\obj\Debug\archivosTextoyBinario.csprojResolveAssemblyReference.cache
