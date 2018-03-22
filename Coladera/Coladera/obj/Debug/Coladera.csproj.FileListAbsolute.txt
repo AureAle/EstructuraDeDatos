@@ -1,0 +1,9 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\bin\Debug\Coladera.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\bin\Debug\Coladera.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\bin\Debug\Coladera.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.csproj.GenerateResource.Cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Coladera\Coladera\obj\Debug\Coladera.pdb
