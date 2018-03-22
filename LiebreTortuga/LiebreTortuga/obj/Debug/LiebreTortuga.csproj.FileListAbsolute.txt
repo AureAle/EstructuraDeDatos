@@ -1,0 +1,9 @@
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.exe.config
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\bin\Debug\LiebreTortuga.pdb
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.csprojResolveAssemblyReference.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.Form1.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.Properties.Resources.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.csproj.GenerateResource.Cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\LiebreTortuga\LiebreTortuga\obj\Debug\LiebreTortuga.pdb
