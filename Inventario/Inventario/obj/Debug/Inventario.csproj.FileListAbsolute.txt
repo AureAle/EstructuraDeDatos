@@ -1,0 +1,10 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
