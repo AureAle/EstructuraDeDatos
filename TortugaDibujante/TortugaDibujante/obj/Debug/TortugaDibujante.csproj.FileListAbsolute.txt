@@ -1,0 +1,10 @@
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\bin\Debug\TortugaDibujante.exe.config
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\bin\Debug\TortugaDibujante.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\bin\Debug\TortugaDibujante.pdb
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.csprojResolveAssemblyReference.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.Form1.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.Properties.Resources.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.csproj.GenerateResource.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.csproj.CoreCompileInputs.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\TortugaDibujante\TortugaDibujante\obj\Debug\TortugaDibujante.pdb
