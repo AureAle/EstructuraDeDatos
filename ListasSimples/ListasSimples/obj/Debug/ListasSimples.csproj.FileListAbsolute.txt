@@ -1,0 +1,10 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\bin\Debug\ListasSimples.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\bin\Debug\ListasSimples.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\bin\Debug\ListasSimples.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasSimples\ListasSimples\obj\Debug\ListasSimples.pdb
