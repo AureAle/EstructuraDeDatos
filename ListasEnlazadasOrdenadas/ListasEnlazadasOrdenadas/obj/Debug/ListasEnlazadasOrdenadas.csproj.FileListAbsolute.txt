@@ -1,0 +1,10 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\bin\Debug\ListasEnlazadasOrdenadas.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\bin\Debug\ListasEnlazadasOrdenadas.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\bin\Debug\ListasEnlazadasOrdenadas.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ListasEnlazadasOrdenadas\ListasEnlazadasOrdenadas\obj\Debug\ListasEnlazadasOrdenadas.pdb
