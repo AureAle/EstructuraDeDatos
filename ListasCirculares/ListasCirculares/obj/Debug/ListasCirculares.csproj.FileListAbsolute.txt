@@ -1,0 +1,10 @@
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe.config
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\bin\Debug\ListasCirculares.pdb
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csprojResolveAssemblyReference.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Form1.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.Properties.Resources.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.GenerateResource.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\ListasCirculares\ListasCirculares\obj\Debug\ListasCirculares.pdb
