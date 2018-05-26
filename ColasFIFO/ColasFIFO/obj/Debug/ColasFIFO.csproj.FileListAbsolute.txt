@@ -1,0 +1,10 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\bin\Debug\ColasFIFO.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\ColasFIFO\ColasFIFO\obj\Debug\ColasFIFO.pdb
