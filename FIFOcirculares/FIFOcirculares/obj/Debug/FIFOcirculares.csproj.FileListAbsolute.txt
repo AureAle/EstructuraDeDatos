@@ -1,0 +1,10 @@
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\bin\Debug\FIFOcirculares.exe.config
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\bin\Debug\FIFOcirculares.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\bin\Debug\FIFOcirculares.pdb
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.csprojResolveAssemblyReference.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.Form1.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.Properties.Resources.resources
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.csproj.GenerateResource.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.csproj.CoreCompileInputs.cache
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.exe
+c:\users\auren\onedrive\documentos\visual studio 2017\Projects\FIFOcirculares\FIFOcirculares\obj\Debug\FIFOcirculares.pdb
