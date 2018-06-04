@@ -1,0 +1,10 @@
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\bin\Debug\InventarioMejorado.exe.config
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\bin\Debug\InventarioMejorado.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\bin\Debug\InventarioMejorado.pdb
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.csprojResolveAssemblyReference.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.Form1.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.Properties.Resources.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.csproj.GenerateResource.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.csproj.CoreCompileInputs.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\InventarioMejorado\InventarioMejorado\obj\Debug\InventarioMejorado.pdb
